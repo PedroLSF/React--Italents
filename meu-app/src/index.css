@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,500;1,100&display=swap');
+
+html {
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+}
+
+html, body {
+    height: 100%;
+}
+
+body {
+    background-image: url(https://www.rbsdirect.com.br/imagesrc/26715930.jpg?w=700);
+    background-size: cover;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body, h1, h2, h3, h4, h5, p, ul {
+    margin: 0;
+    padding: 0;
+    font-weight: normal;
+}
+
+#root {
+    height: 100%;
+}
