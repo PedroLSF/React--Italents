@@ -1,0 +1,14 @@
+.App{
+    height: 100%;
+}
+
+.app-text {
+    color: #080808;
+    text-align: center;
+    width: 50%;
+    margin: 0 auto;
+    border: 2.5px solid #010101;
+    border-radius: 10px;
+    padding: 10px;
+    border-radius: 10px ;
+}
